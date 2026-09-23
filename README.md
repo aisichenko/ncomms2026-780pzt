@@ -21,8 +21,8 @@ Data and analysis notebook accompanying:
 Requires [uv](https://docs.astral.sh/uv/) and Python 3.12+.
 
 ```bash
-git clone <this-repo-url>
-cd <repo-name>
+git clone https://github.com/aisichenko/ncomms2026-780pzt.git
+cd ncomms2026-780pzt
 uv sync
 ```
 
