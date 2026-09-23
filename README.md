@@ -2,7 +2,7 @@
 
 Data and analysis notebook accompanying:
 
-**Sub-Doppler rubidium atom cooling using a programmable agile integrated PZT-on-SiN resonator**
+**[Sub-Doppler rubidium atom cooling using a programmable agile integrated PZT-on-SiN resonator](https://doi.org/10.1038/s41467-026-77526-9)**
 
 ## Contents
 
@@ -44,4 +44,17 @@ uv run jupyter lab
 
 ## Citation
 
-If you use this data or code, please cite the associated Nature Communications paper (citation to be updated upon publication).
+If you use this data or code, please cite:
+
+Isichenko, A., Carpenter, S., Montifiore, N. *et al.* Sub-Doppler rubidium atom cooling using a programmable agile integrated PZT-on-SiN resonator. *Nat Commun* (2026). https://doi.org/10.1038/s41467-026-77526-9
+
+```bibtex
+@article{isichenko2026subdoppler,
+  title   = {Sub-Doppler rubidium atom cooling using a programmable agile integrated {PZT}-on-{SiN} resonator},
+  author  = {Isichenko, Andrei and Carpenter, Steven and Montifiore, Nick and Wang, Jiawei and Dangi, Mayand and Chauhan, Nitesh and Mukherjee, Pritha and Yang, Xuting and Indukuri, Nitin and Harrington, Mark W. and Zhong, Chuan and Kierzewski, Iain M. and Rudy, Ryan Q. and Choy, Jennifer T. and Blumenthal, Daniel J.},
+  journal = {Nature Communications},
+  year    = {2026},
+  doi     = {10.1038/s41467-026-77526-9},
+  url     = {https://www.nature.com/articles/s41467-026-77526-9}
+}
+```
